@@ -28,3 +28,5 @@ Certifique-se de ter instalado na sua máquina:
    ```bash
    git clone https://github.com/seu-usuario/agentes-frontend.git
    cd agentes-frontend
+
+<img width="1436" height="691" alt="image" src="https://github.com/user-attachments/assets/14d1b0db-c77e-4754-a466-7cd7be5179db" />
